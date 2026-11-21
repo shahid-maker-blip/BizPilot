@@ -1,0 +1,32 @@
+# Private business data
+*.db
+*.sqlite
+*.sqlite3
+business_settings.txt
+invoice_*.html
+project_backup*
+bizpilot_backup*
+
+# Build files and executables
+build/
+installer/
+release/
+*.exe
+*.o
+*.obj
+*.dll
+
+# Local editor settings
+.vscode/
+imgui.ini
+
+# Private configuration and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Operating system files
+.DS_Store
+Thumbs.db
+src/main_before_sqlite.cpp
