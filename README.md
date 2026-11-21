@@ -34,3 +34,17 @@ Version 1.0.0 – Portfolio release preparation.
 
 ## Author
 Independent C++ software development project.
+
+## Application Screenshots
+
+### Dashboard
+![BizPilot Dashboard](screenshots/BizPilot/1.Dashboard.png)
+
+### Customer Management
+![Customer Management](screenshots/BizPilot/2.customers.png)
+
+### Invoice Management
+![Invoice Management](screenshots/BizPilot/3.Invoices.png)
+
+### Business Settings
+![Business Settings](screenshots/BizPilot/4.settings.png)
